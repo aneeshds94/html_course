@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+
+}
+
+h1{
+	font-size: 26px;
+	text-align: center;
+}
+
+
+.item {
+	border: 1px solid green;
+	float: left;
+	margin: 15px;
+	background-color: #6BF1C0;
+	position: relative;
+	top: 0;
+}
+
+.heading{
+	position: relative;
+	top: 0;
+	right: 0;
+	font-size: 18px;
+	padding: 5px;
+	border: 1px solid black;
+	float:right;
+	
+}
+
+.section-heading{
+	font-size: 2em;
+	padding: 10px;
+}
+.para{
+	font-size: 16px;
+	padding: 5px;
+	clear: both;
+	height: 1000px;
+	color: white;
+}
+
+#color1{
+	background-color: red;
+	font-weight: bold;
+}
+
+.nav-dropdown{
+	text-align: center;
+	background-color: #aba8a7;
+	color: white;
+}
+
+
+
